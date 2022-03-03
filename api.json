@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "content": "Czy 2 + 2 = 4?",
+    "answer": "TAK"
+  },
+  {
+    "id": 2,
+    "content": "Czy krokodyl jest gadem?",
+    "answer": "TAK"
+  },
+  {
+    "id": 3,
+    "content": "Czy kot jest ptakiem?",
+    "answer": "NIE"
+  },
+  {
+    "id": 4,
+    "content": "Czy 1 + 1 = 4?",
+    "answer": "NIE"
+  },
+  {
+    "id": 5,
+    "content": "Czy 2 + 0 = 2?",
+    "answer": "TAK"
+  },
+  {
+    "id": 6,
+    "content": "Czy wieloryb jest ssakiem?",
+    "answer": "TAK"
+  },
+  {
+    "id": 7,
+    "content": "Czy chomik jest gryzoniem?",
+    "answer": "TAK"
+  },
+  {
+    "id": 8,
+    "content": "Czy dziobak sklada jaja?",
+    "answer": "TAK"
+  },
+  {
+    "id": 9,
+    "content": "Czy 10 + 2 = 15?",
+    "answer": "NIE"
+  },
+  {
+    "id": 10,
+    "content": "Czy mouse to po angielsku kot?",
+    "answer": "NIE"
+  },
+  {
+    "id": 11,
+    "content": "Czy 4 - 1 = 2",
+    "answer": "NIE"
+  },
+  {
+    "id": 12,
+    "content": "Czy 5 * 2 = 10",
+    "answer": "TAK"
+  },
+  {
+    "id": 13,
+    "content": "Czy 20 - 11 = 5?",
+    "answer": "NIE"
+  },
+  {
+    "id": 14,
+    "content": "Czy ciąg anharmoniczny jest zbieżny?",
+    "answer": "TAK"
+  },
+  {
+    "id": 15,
+    "content": "Czy komputer potrafi obliczyć liczby niewymierne?",
+    "answer": "NIE"
+  },
+  {
+    "id": 16,
+    "content": "Czy podstawą logarytmów naturalnych jest liczba pi?",
+    "answer": "NIE"
+  },
+  {
+    "id": 17,
+    "content": "Czy niebo jest niebieskie?",
+    "answer": "TAK"
+  },
+  {
+    "id": 18,
+    "content": "Czy kot to pies?",
+    "answer": "NIE"
+  },
+  {
+    "id": 19,
+    "content": "Czy A jest pierwszą literą alfabetu?",
+    "answer": "TAK"
+  },
+  {
+    "id": 20,
+    "content": "Czy ludzie oddychają?",
+    "answer": "TAK"
+  }
+]
