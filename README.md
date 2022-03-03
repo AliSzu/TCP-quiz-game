@@ -15,3 +15,4 @@ Projekt wykonany razem z Dominiką Leśniewską (@kwasiarkowy) na zajęcia Sieci
 - Program został wykonany, jak nazwa wskazuje, przy pomocy połączenia `TCP`
 - Cała gra posiada dwa osobne programy, dla klienta i dla serwera osobno
 - Aby kilka graczy podłączyło się i grało w tym samym czasie, zostały użyte wątki 
+- Gra jest konsolowa i nie posiada GUI
